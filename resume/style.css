@@ -1,9 +1,10 @@
+<!-- styles for my resume -->
 BODY {
   font-family: 'Open Sans', sans-serif; Arial, sans-serif;
   color:#444;
   font-weight:400;
 }
-
+<!-- banner name at top -->
 h1 {
   color:#33485e;
   text-transform: uppercase;
