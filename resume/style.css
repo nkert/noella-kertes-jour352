@@ -1,4 +1,4 @@
-<!-- styles for my resume -->
+/*styles for my resume */
 
 BODY {
   font-family: 'Open Sans', sans-serif; Arial, sans-serif;
@@ -6,7 +6,7 @@ BODY {
   font-weight:400;
 }
 
-<!-- banner name at top -->
+/* banner name at top */
 
 h1 {
   color:#33485e;
