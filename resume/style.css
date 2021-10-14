@@ -12,10 +12,11 @@ BODY {
   color:#33485e;
   text-transform: uppercase;
   text-align: center;
-  font-size: 3em;
+  font-size:3em;
   border-bottom: 1px solid: #33485e;
   width: 60%;
   min-width: 300px;
+  margin: 0 auto;
 }
 
 /* main title */
