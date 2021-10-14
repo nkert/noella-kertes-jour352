@@ -27,11 +27,12 @@ strong {
 }
 
 /* section titles */
-h2 {
+.sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
   color:#ffffff;
+  fontweight:400;
 }
 
 /* job titles */
