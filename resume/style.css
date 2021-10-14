@@ -8,7 +8,7 @@ BODY {
 
 /* banner name at top */
 
-h1 {
+#name {
   color:#33485e;
   text-transform: uppercase;
   text-align: center;
