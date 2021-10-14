@@ -72,6 +72,10 @@ strong {
 .description {
   margin: 0px;
   padding: 0px;
+
+menu {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+  text-align: center;
 }
-]
-]
