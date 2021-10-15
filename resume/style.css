@@ -75,17 +75,28 @@ BODY {
   margin-left: 0px;
   margin-right: 0px;
 }
+
 .description {
   margin: 0px;
   padding: 0px;
+}
 
-ul.menu {
+.menu {
   margin: 0px;
   padding: 0px;
-  display: inline;
+  list-style: none;
+  display: inline-block;
   text-align: center;
+}
 
-ul.degrees {
+.degrees {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.do {
   margin-top: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
