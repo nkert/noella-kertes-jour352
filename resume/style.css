@@ -81,12 +81,15 @@ BODY {
   padding: 0px;
 }
 
-.menu {
+ul#menu {
   margin: 0px;
   padding: 0px;
   list-style: none;
-  display: inline;
   text-align: center;
+}
+
+ul#menu li {
+  display: inline;
 }
 
 .degrees {
