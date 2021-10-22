@@ -1,4 +1,23 @@
 img {
-  width: 75%;
+  width: 50%;
   height: auto;
+}
+
+BODY {
+  font-family: 'Helvetica', sans-serif; font-size: 1em;
+}
+
+.h1 {
+  font-family: 'Georgia', serif; font-size: 13px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
 }
