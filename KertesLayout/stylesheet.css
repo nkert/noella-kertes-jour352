@@ -30,12 +30,14 @@ font-style: italic;
 }
 
 img {
-  width: 70%;
+  width: 85%;
   heigt: auto;
 }
 
 figcaption {
   text-align: right
+  font-style: italic;
+
 }
 
 #spacecraft {
