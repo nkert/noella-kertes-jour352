@@ -24,3 +24,8 @@ font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
 }
+
+img {
+  width: 50%;
+  heigt: auto;
+}
