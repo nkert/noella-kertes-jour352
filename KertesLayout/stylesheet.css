@@ -10,6 +10,10 @@ BODY {
   font-family: 'Helvetica', sans-serif; font-size: 1em;
 }
 
+.p {
+  text-align: left;
+}
+
 .h1 {
   font-family: 'Georgia', serif; font-size: 13px;
 }
