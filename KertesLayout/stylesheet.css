@@ -29,3 +29,9 @@ img {
   width: 70%;
   heigt: auto;
 }
+
+#spacecraft {
+  border-style: solid;
+  border-color: #000000;
+  border-width: thin;
+}
