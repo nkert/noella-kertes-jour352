@@ -18,17 +18,15 @@ BODY {
   font-family: 'Helvetica', sans-serif; font-size: 65px;
 }
 
-.blockquote {
+blockquote {
   font-size: 1.4em;
   width: 60%;
   margin: 50px auto;
   font-family: Helvetica;
   font-style: italic;
-  padding: 10px 30px 10px 75px;
+  padding: 10px 30px 10px;
   border-left:8px solid #9AAEC9;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;
+
 }
 
 blockquote span{
