@@ -4,7 +4,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 BODY {
@@ -20,7 +20,7 @@ BODY {
   font-style: bolder
 }
 
-h2 {
+.h2 {
   font-family: 'Helvetica', sans-serif; font-size: 20px;
   font-style: bolder
 }
@@ -59,7 +59,7 @@ img {
   width: 100%;
   height: auto;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 figcaption {
