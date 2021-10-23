@@ -24,8 +24,19 @@ BODY {
   margin: 50px auto;
   font-family: Helvetica;
   font-style: italic;
-  padding:1.2em 30px 1.2em 75px;
+  padding: 10px 30px 10px 75px;
   border-left:8px solid #9AAEC9;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
 }
 
 #content {
