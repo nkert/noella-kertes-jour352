@@ -16,6 +16,12 @@ BODY {
 
 .h1 {
   font-family: 'Helvetica', sans-serif; font-size: 65px;
+  font-style: bolder
+}
+
+h2 {
+  font-family: 'Helvetica', sans-serif; font-size: 20px;
+  font-style: bolder
 }
 
 blockquote {
