@@ -18,6 +18,13 @@ BODY {
   font-family: 'Helvetica', sans-serif; font-size: 65px;
 }
 
+.blockquote {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+}
+
 #content {
   margin: 0 auto;
   width: 900px;
