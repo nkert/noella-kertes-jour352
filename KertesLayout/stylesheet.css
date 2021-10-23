@@ -54,6 +54,7 @@ img {
 }
 
 figcaption {
+  font-family: Helvetica, sans-serif;
   text-align: right;
   font-style: italic;
 
