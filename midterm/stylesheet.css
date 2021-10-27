@@ -41,3 +41,8 @@ img {
   margin-top: 30px;
   margin-bottom: 10px;
 }
+
+figcaption {
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+  font-style: italic;
