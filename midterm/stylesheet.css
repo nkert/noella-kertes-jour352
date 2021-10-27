@@ -12,11 +12,11 @@ BODY {
   font-size: 12px;
 }
 
-.p {
+p {
   text-align: left;
 }
 
-.h1 {
+h1 {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 75px;
   font-weight: bolder;
