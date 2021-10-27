@@ -15,7 +15,11 @@ BODY {
   text-align: left;
 }
 
-
+.h1 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 85px;
+  font-weight: bolder;
+}
 
 
 #content {
