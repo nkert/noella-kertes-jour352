@@ -16,6 +16,11 @@ p {
   text-align: left;
 }
 
+p::first-letter {
+  font-size: 200%
+  color:#6E5272
+}
+
 h1 {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 40px;
