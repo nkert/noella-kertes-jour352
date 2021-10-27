@@ -50,5 +50,6 @@ figcaption {
 
 .cropped {
   float: left;
+  width: 65%;
+  height: auto;
 }
-  
