@@ -14,3 +14,10 @@ BODY {
 .p {
   text-align: left;
 }
+
+
+
+
+#content {
+  margin: 0 auto;
+  width: 1100px;
