@@ -1,0 +1,16 @@
+.logo {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+BODY {
+  font-family: 'Helvetica', 'Arial', sans-serif; font-size: 12px;
+}
+
+.p {
+  text-align: left;
+}
