@@ -23,7 +23,6 @@ h1 {
 }
 
 
-
 #content {
   margin: 0 auto;
   width: 1000px;
@@ -47,3 +46,9 @@ figcaption {
   text-align: left;
   font-style: italic;
   font-weight: 400;
+}
+
+.cropped {
+  float: left;
+}
+  
