@@ -21,7 +21,6 @@ span.firstwords {
   color: #6E5272;
 }
 
-
 h1 {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 40px;
@@ -57,4 +56,11 @@ figcaption {
   text-align: left;
   font-style: italic;
   font-weight: 400;
+}
+
+.resized {
+  float: left;
+  width: 75%;
+  height: auto;
+  margin-right: 20px;
 }
