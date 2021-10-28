@@ -58,9 +58,19 @@ figcaption {
   font-weight: 400;
 }
 
+blockquote {
+  font-size: 1.4em;
+  width: 60%;
+  margin: 50px auto;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-style: italic;
+  padding: 10px 30px 10px;
+  border-left:8px solid #6E5272;
+}
+
 blockquote span{
   display:block;
-  color:#6E5272;
+  color:#333333;
   font-style: normal;
   font-weight: bold;
   margin-top:1em;
