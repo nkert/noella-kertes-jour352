@@ -17,7 +17,8 @@ p {
 }
 
 span.firstwords {
-  font-size: 1.5em; //one and a half times current bodytext
+  font-size: 1.5em; //one and a half times current bodytext;
+  color: #6E5272;
 }
 
 
