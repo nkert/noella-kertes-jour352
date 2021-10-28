@@ -16,9 +16,8 @@ p {
   text-align: left;
 }
 
-span.firstword {
-  font-size: 2em; //double current body
-  color: #6E5272;
+span.firstwords {
+  font-size: 2em; //double current bodytext
 }
 
 
@@ -28,6 +27,11 @@ h1 {
   font-weight: bolder;
 }
 
+h2 {
+  font-family: 'Garamond', 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: bold;
+}
 
 #content {
   margin: 0 auto;
