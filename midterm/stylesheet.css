@@ -64,11 +64,13 @@ blockquote {
   margin: 50px auto;
   font-family: 'Helvetica', 'Arial', sans-serif;
   font-style: italic;
-  padding: 10px 30px 10px;
+  color: #6E5272;
+  padding: 10px 10px 20px 60px;
   border-left:8px solid #6E5272;
+  border-right:8px solid #6E5272;
 }
 
-blockquote span{
+blockquote span {
   display:block;
   color:#333333;
   font-style: normal;
