@@ -61,12 +61,12 @@ figcaption {
 blockquote {
   font-size: 1.4em;
   width: 60%;
-  margin: 50px auto;
+  margin: 20px auto;
   font-family: 'Helvetica', 'Arial', sans-serif;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 400;
   color: #6E5272;
-  padding: 15px 10px 20px 30px;
+  padding: 30px 10px 20px 30px;
   border-left:8px solid #6E5272;
   border-right:8px solid #6E5272;
 }
