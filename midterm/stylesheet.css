@@ -64,6 +64,7 @@ blockquote {
   margin: 50px auto;
   font-family: 'Helvetica', 'Arial', sans-serif;
   font-style: italic;
+  font-weight: 300;
   color: #6E5272;
   padding: 10px 10px 30px 30px;
   border-left:8px solid #6E5272;
