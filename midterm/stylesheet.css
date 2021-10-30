@@ -16,8 +16,9 @@ p {
   text-align: left;
 }
 
+/* Stye to increase the size slightly for the first few words of the story. */
 span.firstwords {
-  font-size: 1.5em; //one and a half times current bodytext;
+  font-size: 1.5em;
   color: #6E5272;
 }
 
@@ -58,6 +59,7 @@ figcaption {
   font-weight: 400;
 }
 
+/* Style for pull quote */
 blockquote {
   font-size: 1.4em;
   width: 60%;
