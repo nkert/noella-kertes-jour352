@@ -79,8 +79,7 @@ me the name of the tag, you don't have to write out all the code.
 img
 
 10. Why do we use media queries?
-Media queries are used in responsive design code. They allow the browser to run a series of tests to determine the size of the browser and then apply style (CSS).
-Media queries allow for the delivery of a tailored style to desktops, laptops, tablets and mobile devices.
+Media queries are used in responsive design code. They allow the browser to run a series of tests to determine the size of the browser and then apply style (CSS). Media queries allow for the delivery of a tailored style to desktops, laptops, tablets and mobile devices.
 
 
 11. What is the main difference between a serif and a sans-serif font?
