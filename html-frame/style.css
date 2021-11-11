@@ -42,3 +42,11 @@ img {
   margin-left: 40px;
   margin-right: 40px;
 }
+
+figcaption {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-weight: 300;
+  font-size: 1em;
+
+}
