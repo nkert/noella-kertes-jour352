@@ -34,13 +34,13 @@ p {
 }
 
 img {
-  width: 90%;
+  width: 85%;
   height: auto;
   align: center;
   margin-top: 30px;
   margin-bottom: 10px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 figcaption {
@@ -48,13 +48,15 @@ figcaption {
   text-align: left;
   font-weight: 300;
   font-size: 1em;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .footer {
   position: fixed;
-  left: 0;
-  bottom: 0;
+  height: 100px;
   width: 100%;
+  bottom: 0;
   background-color: black;
   text-align: center;
 }
