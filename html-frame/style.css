@@ -12,8 +12,27 @@
   text-align: center;
 }
 
+#chapter {
+  font-size: 2em;
+  font-weight: 500px;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
 p {
   font-family: Georgia, serif;
   line-height: 180%;
   font-size: 1em;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
