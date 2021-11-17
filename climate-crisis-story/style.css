@@ -33,7 +33,7 @@ p {
   padding-bottom: 10px;
 }
 
-img {
+.picture {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -45,8 +45,6 @@ figcaption {
   text-align: left;
   font-weight: 300;
   font-size: 1em;
-  margin-left: 70px;
-  margin-right: 60px;
 }
 
 .footer {
