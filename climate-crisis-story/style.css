@@ -68,7 +68,7 @@ figcaption {
   color:#fff;
   margin: 0 auto;
   text-transform: uppercase;
-  font-weigh: 700;
+  font-weight: 700;
 }
 
 .red {
@@ -92,7 +92,7 @@ figcaption {
   position: absolute;
   top: 15%;
   width: 100%;
-  background-color: ##f23030;
+  background-color: #f23030;
   opacity: .7;
 }
 
