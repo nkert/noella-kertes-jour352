@@ -143,6 +143,9 @@ figcaption {
   color: black;
 }
 
+.full-screen-image {
+    width: 100%;
+}
 /* Media Queries */
 
 @media (max-width: 700px) {
