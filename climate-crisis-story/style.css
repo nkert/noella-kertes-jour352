@@ -86,13 +86,14 @@ figcaption {
 .hero-image {
     width: 100%;
     filter: drop-shadow(8px 8px 10px red);
+    filter: hue-rotate(90deg);
 }
 
 .overlay {
   position: absolute;
-  top: 20%;
+  top: 40%;
   width: 100%;
-  background-color: black;
+  background-color: #fff;
   opacity: .7;
 }
 
