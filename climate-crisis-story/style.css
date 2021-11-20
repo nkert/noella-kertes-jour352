@@ -114,6 +114,13 @@ figcaption {
   font-size: .25em;
 }
 
+.hero-tag {
+  font-family: 'Montserrat', sans-serif;
+  font-size: .5em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
 .quote {
   font-family: 'Montserrat', sans-serif;
   color: #f23030;
