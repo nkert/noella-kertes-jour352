@@ -90,10 +90,14 @@ figcaption {
 
 .overlay {
   position: absolute;
-  top: 20%;
+  top: 15%;
   width: 100%;
-  background-color: red;
+  background-color: ##f23030;
   opacity: .7;
+}
+
+.black {
+  color:black;
 }
 
 .hero-hed {
