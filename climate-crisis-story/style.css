@@ -81,6 +81,7 @@ figcaption {
     position: relative;
     text-align: center;
     color: white;
+    padding-top: 10px;
 }
 
 .hero-image {
@@ -92,7 +93,7 @@ figcaption {
   position: absolute;
   margin: 0 auto; left: 0; right: 0;
   top: 0%;
-  width: 50%;
+  width: 47%;
   background-color: #f23030;
   opacity: .7;
 }
