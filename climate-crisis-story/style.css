@@ -89,8 +89,9 @@ figcaption {
 }
 
 .overlay {
-  position: absolute;
-  top: 5%;
+  position: relative;
+  align: center;
+  top: 0%;
   width: 50%;
   background-color: #f23030;
   opacity: .7;
