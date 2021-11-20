@@ -85,13 +85,13 @@ figcaption {
 
 .hero-image {
     width: 100%;
-    filter: drop-shadow(8px 8px 10px red);
+    filter: drop-shadow(0px 0px 10px red);
 }
 
 .overlay {
   position: absolute;
-  top: 15%;
-  width: 100%;
+  top: 5%;
+  width: 50%;
   background-color: #f23030;
   opacity: .7;
 }
