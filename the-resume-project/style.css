@@ -33,24 +33,10 @@ p {
   padding-bottom: 10px;
 }
 
-img {
-  width: 80%;
-  height: auto;
-  align: center;
-  margin-top: 30px;
-  margin-bottom: 10px;
-  margin-left: 70px;
-  margin-right: 60px;
+.topper {
+  width: 100%;
 }
 
-figcaption {
-  font-family: 'Montserrat', sans-serif;
-  text-align: left;
-  font-weight: 300;
-  font-size: 1em;
-  margin-left: 70px;
-  margin-right: 60px;
-}
 
 .footer {
   position: static;
