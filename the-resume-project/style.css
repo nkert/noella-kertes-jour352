@@ -46,8 +46,8 @@ p {
 
 .overlay {
   position: absolute;
-  margin: 0 auto;
-  top: 75%;
+  margin: 30px;
+  top: 45%;
   width: 20%;
   background-color: #f23030;
   opacity: 1;
@@ -59,7 +59,7 @@ p {
   border-top-right-radius:15px;
   border-bottom-left-radius:15px;
   border-bottom-right-radius:15px;
-  
+
 }
 
 
