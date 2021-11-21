@@ -47,9 +47,10 @@ p {
 .overlay {
   position: absolute;
   margin: 0 auto; left: 0; right: 75px;
-  top: 0%;
+  top: 10%;
   width: 30%;
   background-color: #f23030;
+  opacity: 100%
 }
 
 .hero-hed {
