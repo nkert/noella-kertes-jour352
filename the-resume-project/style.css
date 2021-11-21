@@ -46,7 +46,7 @@ p {
 
 .overlay {
   position: absolute;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-left: 30px;
   top: 45%;
   width: 20%;
@@ -60,14 +60,13 @@ p {
   border-top-right-radius:15px;
   border-bottom-left-radius:15px;
   border-bottom-right-radius:15px;
-
 }
 
 
 .hero-hed {
   font-family: 'Playfair Display', serif;
   font-size: 1em;
-  color: #fff;
+  color: black;
   margin: 0 auto;
   padding-bottom: 10px;
 
