@@ -81,7 +81,7 @@ hr {
   margin-right: auto;
   height: 25px;
   background-color:#7D6968;
-  opacity: 20%;
+  opacityy: 20%;
 }
 
 .separator{
@@ -94,14 +94,15 @@ hr {
   .sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
-    background-color: #33485e;
-    color:#BAC989;
+    background-color: #BAC989;
+    opacity: 39%;
+    color:#484848;
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 0;
     margin-right: 0;
-    width: 70%;
+    width: 100%;
     min-width: 300px;
   }
 
