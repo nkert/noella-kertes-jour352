@@ -70,6 +70,22 @@ p {
   margin: 0 auto;
   padding-bottom: 10px;
 
+
+  /* section titles */
+  .sectionheader {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color:#BAC989;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 70%;
+    min-width: 300px;
+  }
+
 .footer {
   position: static;
   height: 100px;
