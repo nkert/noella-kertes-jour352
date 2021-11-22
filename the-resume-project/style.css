@@ -69,6 +69,25 @@ p {
   color: black;
   margin: 0 auto;
   padding-bottom: 10px;
+}
+
+hr {
+  display: block;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25px;
+  background-color:#7D6968;
+  opacity: 20%;
+}
+
+.separator{
+  display: flex;
+  align-items: center;
+}
 
 
   /* section titles */
