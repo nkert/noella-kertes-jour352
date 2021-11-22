@@ -46,9 +46,9 @@ p {
 
 .overlay {
   position: absolute;
-  margin-top: 30px;
+  margin-top: 40px;
   margin-left: 30px;
-  top: 32%;
+  top: 42%;
   width: 20%;
   background-color: #FFEAD0;
   opacity: 1;
