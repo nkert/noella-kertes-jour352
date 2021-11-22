@@ -95,9 +95,11 @@ hr {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #BAC989;
-    opacity: 39%;
+    background-color opacity: 39%;
     color:#484848;
-    font-weight: 400;
+    color opacity: 100%;
+    font-weight: 700;
+    align: center;
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 0;
