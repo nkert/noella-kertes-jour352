@@ -73,7 +73,6 @@ p {
 
 hr {
   display: block;
-  position: fixed;
   overflow: hidden;
   border-style: inset;
   border-width: 1px;
