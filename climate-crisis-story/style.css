@@ -85,7 +85,8 @@ figcaption {
 
 .hero-image {
     width: 100%;
-    filter: drop-shadow(0px 0px 10px red);
+  filter: grayscale(100%);
+  filter: drop-shadow(0px 0px 10px red);
 }
 
 .overlay {
