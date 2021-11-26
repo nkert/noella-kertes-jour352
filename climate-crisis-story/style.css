@@ -120,6 +120,7 @@ figcaption {
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
+  text-decoration: underline;
 }
 
 .quote {
