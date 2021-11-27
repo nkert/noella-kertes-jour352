@@ -2,12 +2,12 @@
   font-size: 3em;
   font-weight: 700;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 #byline {
   font-size: 1em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   text-transform: uppercase;
   text-align: center;
 }
@@ -16,7 +16,7 @@
   font-size: 2em;
   font-weight: 700;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 p {
@@ -41,7 +41,7 @@ p {
 }
 
 figcaption {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   text-align: left;
   font-weight: 300;
   font-size: 1em;
@@ -111,12 +111,12 @@ figcaption {
 }
 
 .hero-sub {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: .25em;
 }
 
 .hero-tag {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: 2em;
   text-transform: uppercase;
   color: #fff;
@@ -125,7 +125,7 @@ figcaption {
 }
 
 .quote {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   color: #f23030;
   font-size: 3em;
   font-weight: 700;
@@ -139,7 +139,7 @@ figcaption {
 
 .quote-attribution {
   font-size: .5em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-weight: 100;
   text-align: left;
   color: black;
