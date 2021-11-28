@@ -18,6 +18,8 @@
   font-weight: 700;
   text-align: left;
   font-family: 'Red Hat Display', sans-serif;
+  background-color: #f23030;
+  opacity: .8;
 }
 
 p {
@@ -128,7 +130,6 @@ figcaption {
   padding-right: 35px;
   padding-bottom: 18px;
   opacity: .8;
-  top: 1%;
 }
 
 
