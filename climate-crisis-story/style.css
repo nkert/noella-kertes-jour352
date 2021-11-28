@@ -3,7 +3,6 @@
   font-weight: 700;
   text-align: center;
   font-family: 'Source Serif Pro', serif;
-  color: #fff;
 }
 
 #byline {
@@ -24,6 +23,12 @@
   border-color: #f23030;
   border-width: thick;
   border-style: solid;
+}
+
+/* Stye to increase the size slightly for the first few words of the story. */
+span.firstwords {
+  font-size: 1.5em;
+  color: #f23030;
 }
 
 p {
@@ -130,17 +135,6 @@ figcaption {
   font-size: .25em;
 }
 
-.hed-overlay {
-  margin: 0 auto;
-  width: 100%;
-  background-color: #f23030;
-  padding-top: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
-  padding-bottom: 18px;
-  opacity: .8;
-}
-
 
 .quote {
   font-family: 'Red Hat Display', sans-serif;
@@ -162,6 +156,17 @@ figcaption {
   text-align: left;
   color: black;
 }
+
+.sidebar {
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: left;
+}
+
+.mainbar {
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: left;
+}
+
 
 /* Media Queries */
 
