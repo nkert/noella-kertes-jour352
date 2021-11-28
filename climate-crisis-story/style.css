@@ -2,7 +2,7 @@
   font-size: 4em;
   font-weight: 700;
   text-align: center;
-  font-family: Georgia, serif;
+  font-family: 'Source Serif Pro', serif;
   color: #fff;
 }
 
@@ -21,7 +21,7 @@
 }
 
 p {
-  font-family: Georgia, serif;
+  font-family: 'Source Serif Pro', serif;
   line-height: 180%;
   font-size: 1em;
 }
@@ -59,7 +59,7 @@ figcaption {
 }
 
 .columns {
-  font-family: Georgia, serif;
+  font-family: 'Source Serif Pro', serif;
   text-align: center;
 }
 
@@ -106,7 +106,7 @@ figcaption {
 }
 
 .hero-hed {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Source Serif Pro', serif;
   font-size: 6em;
   color: #fff;
   margin: 0 auto;
