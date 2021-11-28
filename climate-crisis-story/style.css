@@ -50,7 +50,7 @@ figcaption {
 
 .footer {
   position: static;
-  height: 100px;
+  height: 65px;
   width: 100%;
   bottom: 0;
   background-color: black;
@@ -107,6 +107,7 @@ figcaption {
 
 .hero-hed {
   font-family: 'Source Serif Pro', serif;
+  font-weight: 900;
   font-size: 6em;
   color: #fff;
   margin: 0 auto;
@@ -122,11 +123,12 @@ figcaption {
   margin: 0 auto;
   width: 100%;
   background-color: #f23030;
-  padding-top: 15px;
+  padding-top: 20px;
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 15px;
   opacity: .8;
+  top: 26%;
 }
 
 
