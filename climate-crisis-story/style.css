@@ -20,6 +20,7 @@
   font-family: 'Red Hat Display', sans-serif;
   background-color: #f23030;
   opacity: .8;
+  color: #fff;
 }
 
 p {
@@ -48,6 +49,11 @@ figcaption {
   text-align: left;
   font-weight: 300;
   font-size: 1em;
+}
+
+.small {
+  margin-left: 20;
+  margin-right: 20;
 }
 
 .footer {
