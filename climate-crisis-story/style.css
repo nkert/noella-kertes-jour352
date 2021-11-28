@@ -157,16 +157,23 @@ figcaption {
   color: black;
 }
 
-.sidebar {
+/* Sidebar/Pullout style */
+
+.sidebar-pullout {
   font-family: 'Red Hat Display', sans-serif;
   text-align: left;
+  background-color: #f23030;
+  opacity:.4;
+  border: 5px #f23030;
+  padding: 50px;
+  margin: 20px;
 }
 
-.mainbar {
+#pullout-hed {
   font-family: 'Red Hat Display', sans-serif;
-  text-align: left;
+  text-align: center;
+  font-weight: 600;
 }
-
 
 /* Media Queries */
 
