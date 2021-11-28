@@ -161,7 +161,7 @@ figcaption {
 /* Sidebar/Pullout style */
 
 .sidebar-pullout {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: 'Source Serif Pro', serif;
   text-align: left;
   font-size: 1em;
   background-color: #FCCCCC;
@@ -172,7 +172,7 @@ figcaption {
 
 #pullout-hed {
   font-family: 'Red Hat Display', sans-serif;
-  text-decoration:
+  text-decoration: underline;
   text-align: center;
   font-weight: 600;
   font-size: 1.5em;
