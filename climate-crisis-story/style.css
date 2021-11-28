@@ -172,10 +172,9 @@ figcaption {
 
 #pullout-hed {
   font-family: 'Red Hat Display', sans-serif;
-  text-decoration: underline;
+  text-decoration: underline; 
   text-align: center;
-  font-weight: 600;
-  font-size: 1.5em;
+  font-weight: 500;
 }
 
 /* Media Queries */
