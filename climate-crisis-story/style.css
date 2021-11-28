@@ -163,7 +163,7 @@ figcaption {
 .sidebar-pullout {
   font-family: 'Source Serif Pro', serif;
   text-align: left;
-  font-size: 1em;
+  font-size: .8em;
   font-weight: 400;
   background-color: #FCCCCC;
   border: 5px #f23030;
@@ -176,7 +176,21 @@ figcaption {
   text-decoration: underline;
   text-align: center;
   font-weight: 500;
+  font-size: 1.5em;
 }
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+ color: purple;
+}
+
+a:hover {
+  color: red;
+}
+
 
 /* Media Queries */
 
