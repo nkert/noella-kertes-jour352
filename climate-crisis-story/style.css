@@ -166,9 +166,11 @@ figcaption {
   font-size: 1em;
   font-weight: 400;
   background-color: #FCCCCC;
-  border: 5px #f23030;
+  border: 5px;
+  border-color: #f23030;
+  border-style: double;
   padding: 50px;
-  margin: 50px;
+  margin: 60px;
 }
 
 #pullout-hed {
