@@ -164,6 +164,7 @@ figcaption {
   font-family: 'Source Serif Pro', serif;
   text-align: left;
   font-size: 1em;
+  font-weight: 400;
   background-color: #FCCCCC;
   border: 5px #f23030;
   padding: 50px;
@@ -172,7 +173,7 @@ figcaption {
 
 #pullout-hed {
   font-family: 'Red Hat Display', sans-serif;
-  text-decoration: underline; 
+  text-decoration: underline;
   text-align: center;
   font-weight: 500;
 }
