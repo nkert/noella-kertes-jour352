@@ -29,6 +29,7 @@
 span.firstwords {
   font-size: 1.5em;
   color: #f23030;
+  font-weight: 500;
 }
 
 p {
@@ -162,17 +163,21 @@ figcaption {
 .sidebar-pullout {
   font-family: 'Red Hat Display', sans-serif;
   text-align: left;
+  font-size: 1em;
   background-color: #f23030;
-  opacity:.4;
+  opacity:.25;
   border: 5px #f23030;
   padding: 50px;
-  margin: 20px;
+  margin: 50px;
 }
 
 #pullout-hed {
   font-family: 'Red Hat Display', sans-serif;
+  text-decoration:
   text-align: center;
   font-weight: 600;
+  font-size: 1.5em;
+  opacity: 1;
 }
 
 /* Media Queries */
