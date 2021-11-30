@@ -90,7 +90,7 @@ hr {
 }
 
 .capitol{
-  opacity: 0.1; 
+  opacity: 0.1;
 }
 
   /* section titles */
@@ -108,6 +108,7 @@ hr {
     font-weight: 700;
     font-size: 3em;
     text-align: center;
+    top: 5;
   }
 
 .footer {
