@@ -129,3 +129,17 @@ hr {
   font-family: Georgia, serif;
   text-align: center;
 }
+
+
+
+.skills-overlay {
+  position: absolute;
+  margin: 0 auto; left: 0; right: 0;
+  top: 0%;
+  width: 47%;
+  background-color: #f23030;
+  opacity: .8;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
