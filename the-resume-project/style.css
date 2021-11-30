@@ -118,9 +118,8 @@ hr {
   /* section boxes */
   .section-box {
     position: absolute;
-    top: 20px;
-    bottom: 20px;
-    right: 20px;
+    top: 85px;
+    left: 85px;
     background-color: white;
     color: black;
     font-weight: 500;
