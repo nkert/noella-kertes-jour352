@@ -115,6 +115,22 @@ hr {
     top: 0;
   }
 
+  /* section boxes */
+  .section-box {
+    position: absolute;
+    top: 20px;
+    bottom: 20px;
+    right: 20px;
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    font-size: 1em;
+    text-align: center;
+    font-style: 'Red Hat Text', sans-serif;
+
+  }
+
+
 .footer {
   position: static;
   height: 100px;
