@@ -89,6 +89,9 @@ hr {
   align-items: center;
 }
 
+.capitol{
+  opacity: 0.1; 
+}
 
   /* section titles */
   .sectionheader {
