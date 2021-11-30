@@ -78,6 +78,7 @@ hr {
   height: 25px;
   background-color:#7D6968;
   opacity: 20%;
+  top: 0;
 }
 
 .separator{
@@ -111,7 +112,7 @@ hr {
     font-weight: 700;
     font-size: 3em;
     text-align: center;
-    top: 5;
+    top: 0;
   }
 
 .footer {
