@@ -91,6 +91,11 @@ hr {
   width: 100%;
 }
 
+.screen{
+  margin: 0 auto;
+  width: 100%;
+}
+
   /* section titles */
   .sectionheader {
     background-color: #E4EAD1;
