@@ -25,30 +25,6 @@ p {
   font-size: 1em;
 }
 
-/* Container holding image and text */
-.container {
-  position: relative;
-  text-align: center;
-}
-
-
-.left-box {
-  position: absolute;
-  top: 50%;
-  left: 245px;
-  background-color: white;
-  color: black;
-  padding: 20px;
-  font-weight: 500;
-  font-size: 1em;
-  text-align: center;
-  font-style: 'Red Hat Text', sans-serif;
-  }
-
-
-}
-
-
 
 .topper {
   width: 100%;
@@ -136,6 +112,39 @@ hr {
   }
 
 
+
+  /* Container holding image and text */
+  .container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+
+  /*Skills elements */
+  .skills-image {
+    background-image: url("images/screenshot_crop.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .left-box {
+    position: absolute;
+    top: 50%;
+    left: 245px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    font-weight: 500;
+    font-size: 1em;
+    text-align: center;
+    font-style: 'Red Hat Text', sans-serif;
+    }
+
+
+
 .footer {
   position: static;
   height: 100px;
@@ -149,18 +158,4 @@ hr {
 .columns {
   font-family: Georgia, serif;
   text-align: center;
-}
-
-
-
-.skills-overlay {
-  position: absolute;
-  margin: 0 auto; left: 0; right: 0;
-  top: 0%;
-  width: 47%;
-  background-color: #f23030;
-  opacity: .8;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
 }
