@@ -122,7 +122,7 @@ hr {
     bottom: 40%;
     left: 500px;
     background-color: #FFEAD0;
-    padding: 30px 75px;
+    padding: 30px 65px;
     font-weight: 600;
     font-size: 1em;
     text-align: center;
@@ -132,7 +132,7 @@ hr {
     .center-box {
       position: absolute;
       bottom: 40%;
-      left: 850px;
+      left: 875px;
       background-color: #FFEAD0;
       padding: 30px 55px;
       font-weight: 600;
@@ -146,7 +146,7 @@ hr {
       bottom: 40%;
       left: 1200px;
       background-color: #FFEAD0;
-      padding:30px 35px;
+      padding:30px 40px;
       font-weight: 600;
       font-size: 1em;
       text-align: center;
