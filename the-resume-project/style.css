@@ -118,7 +118,7 @@ hr {
   /* skills boxes */
   .skills-box {
     position: absolute;
-    top: 950px;
+    bottom: 950px;
     left: 245px;
     background-color: white;
     color: black;
