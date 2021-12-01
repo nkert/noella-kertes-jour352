@@ -169,8 +169,8 @@ figcaption {
   border: 5px;
   border-color: #f23030;
   border-style: double;
-  padding: 50px;
-  margin: 60px;
+  padding: 45px 40px;
+  margin: 75px;
 }
 
 #pullout-hed {
