@@ -1,10 +1,12 @@
 
 p {
-  font-family: Georgia, serif;
-  line-height: 180%;
+  font-family: 'Lora', serif;
   font-size: 1em;
 }
 
+h4 {
+  color: #597988;
+}
 
 .topper {
   width: 100%;
@@ -117,15 +119,47 @@ hr {
 
   .left-box {
     position: absolute;
-    bottom: 50px;
+    bottom: 50%;
     left: 245px;
-    background-color: white;
+    background-color: #FFEAD0;
     padding:20px;
     font-weight: 500;
     font-size: 1em;
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
     }
+
+    .center-box {
+      position: absolute;
+      bottom: 50%;
+      left: 50%;
+      background-color: #FFEAD0;
+      padding:20px;
+      font-weight: 500;
+      font-size: 1em;
+      text-align: center;
+      font-family: 'Red Hat Display', sans-serif;
+      }
+
+    .right-box {
+      position: absolute;
+      bottom: 50%;
+      right: 245px;
+      background-color: #FFEAD0;
+      padding:20px;
+      font-weight: 500;
+      font-size: 1em;
+      text-align: center;
+      font-family: 'Red Hat Display', sans-serif;
+      }
+
+      .skill-title {
+        font-family: 'Red Hat Display', sans-serif;
+        text-decoration-color: #597988;
+        text-decoration: underline;
+      }
+
+    /*End Skill elements */
 
 
 
@@ -137,6 +171,7 @@ hr {
   background-color: black;
   text-align: center;
   color: white;
+  font-family: 'Lora', serif;
 }
 
 .columns {
