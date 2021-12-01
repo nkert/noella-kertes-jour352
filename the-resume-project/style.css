@@ -125,7 +125,7 @@ hr {
   /*Skills elements */
   .skills-image {
     background-image: url("images/screenshot_crop.jpg");
-    height: 600px;
+    height: auto;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
