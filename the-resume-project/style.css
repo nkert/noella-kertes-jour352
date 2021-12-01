@@ -114,11 +114,13 @@ hr {
 
 
   /* Container holding image and text */
-  .container {
+  .section-container {
     position: relative;
     text-align: center;
     color: black;
     width: 100%;
+    margin-right: 0;
+    margin-left: 0;
   }
 
 
@@ -126,7 +128,7 @@ hr {
   .skills-image {
     background-image: url("images/screenshot_crop.jpg");
     background-color: black;
-    height: 900px;
+    height: 700px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
