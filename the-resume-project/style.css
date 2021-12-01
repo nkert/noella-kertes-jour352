@@ -132,14 +132,11 @@ hr {
 
   .left-box {
     position: absolute;
-    bottom: 50%;
+    bottom: 80%;
     left: 245px;
     background-color: white;
     color: black;
-    padding-right: 30px;
-    padding-left: 10px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding:20px;
     font-weight: 500;
     font-size: 1em;
     text-align: center;
