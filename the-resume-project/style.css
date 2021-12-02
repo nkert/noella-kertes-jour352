@@ -106,12 +106,6 @@ hr {
     margin-left: 0;
   }
 
-/* Container using bootstrap grid */
-
-  .container-fluid {
-    color: #FFEAD0;
-
-  }
 
   /*Experience elements */
   .experience-image{
@@ -455,7 +449,9 @@ Main components
 
     /*Start Work elements */
 
-
+    .container {
+      background-color: #FFEAD0;
+    }
 
 
     /*End Work elements */
