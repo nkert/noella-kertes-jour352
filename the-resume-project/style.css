@@ -108,10 +108,9 @@ hr {
 
 /* Container using bootstrap grid */
 
-  .work-container {
+  .container-fluid {
     color: #FFEAD0;
-    width: 100%;
-    margin: 0 auto;
+    
   }
 
   /*Experience elements */
