@@ -449,8 +449,11 @@ Main components
 
     /*Start Work elements */
 
-    .container {
+    .container-fluid {
       background-color: #FFEAD0;
+      height: 700px;
+      width: 100%;
+
     }
 
 
