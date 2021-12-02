@@ -110,14 +110,14 @@ hr {
 
   .container-fluid {
     color: #FFEAD0;
-    
+
   }
 
   /*Experience elements */
   .experience-image{
     background-image: url("images/capitol_crop.jpg");
     background-color: #F0F4F7;
-    height: 2328px;
+    height: 2329px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
