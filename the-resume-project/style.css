@@ -106,6 +106,14 @@ hr {
     margin-left: 0;
   }
 
+/* Container using bootstrap grid */
+
+  .work-container {
+    color: #FFEAD0;
+    width: 100%;
+    margin: 0 auto;
+  }
+
   /*Experience elements */
   .experience-image{
     background-image: url("images/capitol_crop.jpg");
@@ -443,7 +451,18 @@ Main components
       background-size: cover;
     }
 
+    /*End Education elements */
 
+
+    /*Start Work elements */
+
+
+
+
+    /*End Work elements */
+
+
+    /*Footer */
 
 .footer {
   position: static;
@@ -454,9 +473,4 @@ Main components
   text-align: center;
   color: white;
   font-family: 'Lora', serif;
-}
-
-.columns {
-  font-family: 'Lora', serif;
-  text-align: center;
 }
