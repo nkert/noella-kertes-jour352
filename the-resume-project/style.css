@@ -99,7 +99,7 @@ hr {
   /* Container holding image and text */
   .section-container {
     position: relative;
-    text-align: center;
+    text-align: left;
     color: black;
     width: 100%;
     margin-right: 0;
@@ -110,7 +110,8 @@ hr {
   .experience-image{
     background-image: url("images/capitol_crop.jpg");
     background-color: none;
-    height: 1000px;
+    height: 2000px;
+    opacity: 0.1;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
