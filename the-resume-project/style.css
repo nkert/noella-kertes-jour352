@@ -432,6 +432,19 @@ Main components
 
 
 
+
+    /*Education elements */
+    .education-image {
+      background-image: url("images/window_crop.jpg");
+      background-color: black;
+      height: 700px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+
+
 .footer {
   position: static;
   height: 100px;
