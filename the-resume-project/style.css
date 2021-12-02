@@ -109,8 +109,8 @@ hr {
   /*Experience elements */
   .experience-image{
     background-image: url("images/capitol_crop.jpg");
-    background-color: none;
-    height: 2500px;
+    background-color: #F0F4F7;
+    height: 2400px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
