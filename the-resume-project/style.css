@@ -122,6 +122,13 @@ hr {
     color: #B9F7F7;
   }
 
+#place-time{
+  font-size: 1em;
+  font-weight: 400;
+  color: #C7D4D7;
+  }
+
+
 /* --------------------------------------------------
 
 TIMELINE ELEMENTS
