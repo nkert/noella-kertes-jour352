@@ -158,7 +158,7 @@ figcaption {
   margin-left: 10px;
 }
 
-.quote-attribution {
+span.quote-attribution {
   font-size: 1em;
   font-family: 'Red Hat Display', sans-serif;
   font-weight: 100;
