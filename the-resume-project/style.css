@@ -385,49 +385,53 @@ Main components
     background-size: cover;
   }
 
-  .left-box {
-    position: absolute;
-    bottom: 40%;
-    left: 550px;
-    background-color: #FFEAD0;
-    padding: 30px 60px;
+  .container-wrapper {
+    text-align: center;
+}
+
+.container-left, .container-center, .container-right {
+    width:250px;
+    height:200px;
+    display:inline-block;
+    padding: 10px;
+    float: left;
+    font-family: "Red Hat Display", san-serif;
     font-weight: 600;
     font-size: 1em;
-    text-align: center;
-    font-family: 'Red Hat Display', sans-serif;
-    }
+}
 
-    .center-box {
-      position: absolute;
-      bottom: 40%;
-      left: 875px;
-      background-color: #FFEAD0;
-      padding: 30px 60px;
-      font-weight: 600;
-      font-size: 1em;
-      text-align: center;
-      font-family: 'Red Hat Display', sans-serif;
-      }
-
-    .right-box {
-      position: absolute;
-      bottom: 40%;
-      left: 1200px;
-      background-color: #FFEAD0;
-      padding:30px 40px;
-      font-weight: 600;
-      font-size: 1em;
-      text-align: center;
-      font-family: 'Red Hat Display', sans-serif;
-      }
-
-      .skill-title {
+.skill-title {
         font-family: 'Red Hat Display', sans-serif;
         text-decoration-color: #597988;
         text-decoration: underline;
         font-weight: 700;
         font-size: 1.5em;
       }
+
+.container-left {
+    background:#FFEAD0;
+    margin: 200px;
+    margin-left: 300px;
+    margin-right: 0px;
+}
+.container-center {
+    background:#FFEAD0;
+    margin-top: 200px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.container-right {
+    background:#FFEAD0;
+    margin-top: 200px;
+}
+
+@media all and (max-width: 650px) {
+    .container-left, .container-center, .container-right {
+        width:100%;
+        display:block;
+        margin:0;
+    }
+}
 
     /*End Skill elements */
 
