@@ -149,21 +149,23 @@ figcaption {
   font-weight: 700;
   font-style: italic;
   text-align: left;
-  padding: 15px 0 15px 0;
+  padding: 15px 0 0 0;
   border-top: 1px solid #f23030;
-  border-bottom: 1px solid #f23030;
   margin-top: 30px;
-  margin-bottom: 30px;
   margin-right: 10px;
   margin-left: 10px;
 }
-
-span#quote-attribution {
+.quote-attribution {
   font-size: 1em;
   font-family: 'Red Hat Display', sans-serif;
   font-weight: 100;
   text-align: left;
+  padding: 0 0 15px 0;
   color: black;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-bottom: 1px solid #f23030;
 }
 
 /* Sidebar/Pullout style */
