@@ -189,6 +189,12 @@ figcaption {
   font-size: 1.5em;
 }
 
+span.findings {
+  background-color: #f23030;
+  font-weight: 500;
+  color: white;
+}
+
 a:link {
   color: blue;
 }
