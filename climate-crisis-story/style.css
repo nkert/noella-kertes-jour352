@@ -150,10 +150,10 @@ figcaption {
   font-style: italic;
   text-align: left;
   padding: 15 px 0 15px 0;
-  border-top: 1px solid #f23030;
-  border-bottom: 1px solid #f23030;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  border-top: 3px solid #f23030;
+  border-bottom: 3px solid #f23030;
+  margin-top: 30px;
+  margin-bottom: 30px;
   margin-right: 10px;
   margin-left: 10px;
 }
@@ -177,8 +177,8 @@ figcaption {
   border: 5px;
   border-color: #f23030;
   border-style: double;
-  padding: 45px 40px;
-  margin: 75px;
+  padding: 40px;
+  margin: 65px 85px;
 }
 
 #pullout-hed {
