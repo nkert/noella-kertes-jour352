@@ -186,7 +186,9 @@ figcaption {
   text-decoration: underline;
   text-align: center;
   font-weight: 500;
+  background-color: #f23030;
   font-size: 1.5em;
+  color: white;
 }
 
 span.findings {
