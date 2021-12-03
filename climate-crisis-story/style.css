@@ -65,6 +65,10 @@ figcaption {
   margin-right: 30px;
 }
 
+.contributed {
+  font-style:italic;
+}
+
 .footer {
   position: static;
   height: 65px;
@@ -140,14 +144,18 @@ figcaption {
 .quote {
   font-family: 'Red Hat Display', sans-serif;
   color: #f23030;
+  align: center;
   font-size: 3em;
   font-weight: 700;
+  font-style: italic;
   text-align: left;
   padding: 15 px 0 15px 0;
   border-top: 1px solid #f23030;
   border-bottom: 1px solid #f23030;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .quote-attribution {
@@ -196,7 +204,7 @@ a:hover {
 
 /* Media Queries */
 
-@media (max-width: 700px) {
+@media (max-width: 750px) {
   .hero-hed {
     font-size: 1.5em;
   }
