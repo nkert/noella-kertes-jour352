@@ -240,7 +240,8 @@ Main components
   margin-right: 30px;
   background: #333C42;
   border-radius: 2px;
-  padding: 1em;
+  padding: 1em;}
+
   .timeline-content-info {
     background: #2B343A;
     padding: 5px 10px;
@@ -469,7 +470,7 @@ Main components
 
 .footer {
   position: static;
-  height: 100px;
+  height: 75px;
   width: 100%;
   bottom: 0;
   background-color: black;
