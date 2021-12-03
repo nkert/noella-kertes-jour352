@@ -240,12 +240,11 @@ Main components
   margin-right: 30px;
   background: #333C42;
   border-radius: 2px;
-  padding: 1em;}
-
+  padding: 1em;
   .timeline-content-info {
     background: #2B343A;
     padding: 5px 10px;
-    font-size: 1em;
+    font-size: 12px;
     box-shadow:  inset 0 2px 0 rgba(0, 0, 0, 0.08);
     border-radius: 2px;
     i {
@@ -413,7 +412,7 @@ Main components
 .container-left {
     background:#FFEAD0;
     margin: 200px;
-    margin-left: 490px;
+    margin-left: 480px;
     margin-right: 0px;
 }
 .container-center {
@@ -470,7 +469,7 @@ Main components
 
 .footer {
   position: static;
-  height: 75px;
+  height: 100px;
   width: 100%;
   bottom: 0;
   background-color: black;
