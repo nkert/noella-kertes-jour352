@@ -391,7 +391,7 @@ Main components
 
 .container-left, .container-center, .container-right {
     width:250px;
-    height:200px;
+    height:250px;
     display:inline-block;
     padding: 10px;
     float: left;
@@ -411,7 +411,7 @@ Main components
 .container-left {
     background:#FFEAD0;
     margin: 200px;
-    margin-left: 300px;
+    margin-left: 400px;
     margin-right: 0px;
 }
 .container-center {
