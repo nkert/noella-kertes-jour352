@@ -173,11 +173,11 @@ figcaption {
   text-align: left;
   font-size: 1em;
   font-weight: 400;
-  background-color: #FCCCCC;
+  background-color: #FFD9D9;
   border: 5px;
   border-color: #f23030;
   border-style: double;
-  padding: 40px;
+  padding: 50px 40px;
   margin: 85px 65px;
 }
 
