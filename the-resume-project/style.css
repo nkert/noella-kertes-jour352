@@ -390,12 +390,12 @@ Main components
 }
 
 .container-left, .container-center, .container-right {
-    width:250px;
+    width:260px;
     height:250px;
     display:inline-block;
     padding: 10px;
     float: left;
-    font-family: "Red Hat Display", san-serif;
+    font-family: 'Red Hat Display', san-serif;
     font-weight: 600;
     font-size: 1em;
 }
@@ -411,7 +411,7 @@ Main components
 .container-left {
     background:#FFEAD0;
     margin: 200px;
-    margin-left: 400px;
+    margin-left: 600px;
     margin-right: 0px;
 }
 .container-center {
