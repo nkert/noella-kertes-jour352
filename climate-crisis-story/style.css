@@ -149,7 +149,7 @@ figcaption {
   font-weight: 700;
   font-style: italic;
   text-align: left;
-  padding: 15 px 0 15px 0;
+  padding: 15px 0 15px 0;
   border-top: 1px solid #f23030;
   border-bottom: 1px solid #f23030;
   margin-top: 30px;
@@ -177,7 +177,7 @@ figcaption {
   border: 5px;
   border-color: #f23030;
   border-style: double;
-  padding: 50px 40px;
+  padding: 40px 40px 50px;
   margin: 85px 65px;
 }
 
