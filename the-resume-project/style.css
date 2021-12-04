@@ -96,16 +96,25 @@ hr {
 
 
 
-  /* Container holding image and text */
-  .section-container {
+  /* light Container holding image and text */
+  .section-container-light {
     position: relative;
     text-align: left;
-    color: #B9F7F7;
+    color: black;
     width: 100%;
     margin-right: 0;
     margin-left: 0;
   }
 
+  /* dark Container holding image and text */
+  .section-container-dark {
+    position: relative;
+    text-align: left;
+    color: #C7D4D7;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
 
   /*Experience elements */
   .experience-image{
