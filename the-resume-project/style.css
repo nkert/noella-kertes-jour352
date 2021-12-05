@@ -431,6 +431,12 @@ Main components
     }
 }
 
+@media all and (max-width: 650px) {
+    .container-left {
+      margin-left: 75px;
+    }
+}
+
     /*End Skill elements */
 
 
