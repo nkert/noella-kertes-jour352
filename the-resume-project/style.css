@@ -96,11 +96,11 @@ hr {
 
 
 
-  /* light Container holding image and text */
-  .section-container-light {
+  /* Container holding image and text */
+  .section-container-light{
     position: relative;
     text-align: left;
-    color: black;
+    color: #FFEAD0;
     width: 100%;
     margin-right: 0;
     margin-left: 0;
@@ -110,7 +110,7 @@ hr {
   .section-container-dark {
     position: relative;
     text-align: left;
-    color: #C7D4D7;
+    color: black;
     width: 100%;
     margin-right: 0;
     margin-left: 0;
@@ -435,8 +435,6 @@ Main components
 }
 
     /*End Skill elements */
-
-
 
 
     /*Education elements */
