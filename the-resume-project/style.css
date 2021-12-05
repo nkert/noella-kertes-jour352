@@ -423,6 +423,13 @@ Main components
     margin-top: 200px;
 }
 
+@media all and (max-width: 1680px) {
+    .container-left {
+      margin-left: 240px;
+    }
+}
+
+
 @media all and (max-width: 1170px) {
     .container-left {
       margin-left: 80px;
