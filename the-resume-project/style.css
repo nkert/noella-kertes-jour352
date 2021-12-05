@@ -39,14 +39,20 @@ h4 {
 
 @media only screen and (max-width: 900px) {
   .overlay {
-    width: 50%;
-    length: 50%;
+    display: block;
+    max-width: 50%;
+    max-height: 50%;
   }
 
 
 .social {
+  display: block;
   margin-right: 5px;
   margin-left: 5px;
+  width: 75%;
+  height: auto;
+
+
 }
 
 .hero-hed {
