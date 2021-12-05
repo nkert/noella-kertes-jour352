@@ -489,31 +489,25 @@ Main components
 
   .edcontainer-left {
       background:#E5E1E1;
-      margin: 150px;
+      margin: 55px;
       margin-left: 420px;
       margin-right: 0px;
   }
   .edcontainer-center {
       background:#E5E1E1;
       margin-top: 200px;
-      margin-left: 40px;
-      margin-right: 40px;
+      margin-left: 30px;
+      margin-right: 30px;
   }
   .edcontainer-right {
       background:#E5E1E1;
       margin-top: 200px;
   }
 
-  @media all and (max-width: 1680px) {
-      .ed-container-left {
-        margin-left: 240px;
-      }
-  }
-
 
   @media all and (max-width: 1170px) {
       .ed-container-left {
-        margin-left: 80px;
+        margin-left: 15px;
       }
   }
 
