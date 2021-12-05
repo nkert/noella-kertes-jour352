@@ -40,7 +40,7 @@ h4 {
 .social {
   margin-right: 5px;
   margin-left: 5px;
-  width: 100px;
+  width: 30px;
   height: auto;
 }
 
@@ -475,7 +475,7 @@ Main components
   position: static;
   height: 100px;
   width: 100%;
-  bottom: 70;
+  bottom: 0;
   background-color: black;
   text-align: center;
   color: white;
