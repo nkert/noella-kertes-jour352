@@ -52,10 +52,9 @@ h4 {
   padding-bottom: 10px;
 }
 
-@media only screen and (max-width 768px) {
- .overlay p {
-    font-size: 10px;
-  }
+@media (max-width: 750px) {
+  .hero-hed {
+    font-size: 0.5em;
   }
 
 @media only screen and (max-width 768px) {
