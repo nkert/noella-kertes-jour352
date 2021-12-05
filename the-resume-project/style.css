@@ -482,7 +482,7 @@ Main components
       text-align: center;
   }
 
-  .ed-container-left, .ed-container-center, .ed-container-right {
+  .edcontainer-left, .edcontainer-center, .edcontainer-right {
       width:260px;
       height:250px;
       display:inline-block;
@@ -500,19 +500,19 @@ Main components
           font-size: 1.5em;
         }
 
-  .ed-container-left {
+  .edcontainer-left {
       background:#E5E1E1;
       margin: 200px;
       margin-left: 480px;
       margin-right: 0px;
   }
-  .ed-container-center {
+  .edcontainer-center {
       background:#E5E1E1;
       margin-top: 200px;
       margin-left: 60px;
       margin-right: 60px;
   }
-  .ed-container-right {
+  .edcontainer-right {
       background:#E5E1E1;
       margin-top: 200px;
   }
