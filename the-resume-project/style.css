@@ -37,6 +37,13 @@ h4 {
   border-bottom-right-radius:15px;
 }
 
+@media only screen and (max-width: 900px) {
+  .overlay {
+    width: 50%;
+    length: 50%;
+  }
+
+
 .social {
   margin-right: 5px;
   margin-left: 5px;
