@@ -53,14 +53,14 @@ h4 {
 }
 
 @media only screen and (min-width 768px) {
- .h5 {
+ .overlay p {
     font-size: 10px;
   }
   }
 
 @media only screen and (min-width 768px) {
   .social img {
-max-width:30px;
+max-width:50%;
 max-height:auto;
 }
 }
