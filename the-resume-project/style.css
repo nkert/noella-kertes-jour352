@@ -40,29 +40,16 @@ h4 {
 .social {
   margin-right: 5px;
   margin-left: 5px;
-  width: 50px;
+  width: 42px;
   height: auto;
 }
 
 .hero-hed {
   font-family: 'Lora', serif;
-  font-size: 1.5em;
+  font-size: 1em;
   color: black;
   margin: 0 auto;
   padding-bottom: 10px;
-}
-
-@media only screen and (max-width 768px) {
- .overlay p {
-    font-size: 10px;
-  }
-  }
-
-@media only screen and (max-width 768px) {
-  .social img {
-max-width:50%;
-max-height:auto;
-}
 }
 
 
