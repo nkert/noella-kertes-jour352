@@ -37,6 +37,13 @@ h4 {
   border-bottom-right-radius:15px;
 }
 
+@media all and (max-width: 650px) {
+    .overlay {
+        width:75%;
+        display:block;
+        margin:0;
+    }
+
 .social {
   margin-right: 5px;
   margin-left: 5px;
