@@ -478,6 +478,74 @@ Main components
       background-size: cover;
     }
 
+    .container-wrapper {
+      text-align: center;
+  }
+
+  .ed-container-left, .ed-container-center, .ed-container-right {
+      width:260px;
+      height:250px;
+      display:inline-block;
+      padding: 10px;
+      float: left;
+      font-family: 'Red Hat Display', sans-serif;
+      font-weight: 600;
+      font-size: 1em;
+  }
+
+  .ed-title {
+          font-family: 'Red Hat Display', sans-serif;
+          color: #597988;
+          font-weight: 700;
+          font-size: 1.5em;
+        }
+
+  .ed-container-left {
+      background:#E5E1E1;
+      margin: 200px;
+      margin-left: 480px;
+      margin-right: 0px;
+  }
+  .ed-container-center {
+      background:#E5E1E1;
+      margin-top: 200px;
+      margin-left: 60px;
+      margin-right: 60px;
+  }
+  .ed-container-right {
+      background:#E5E1E1;
+      margin-top: 200px;
+  }
+
+  @media all and (max-width: 1680px) {
+      .ed-container-left {
+        margin-left: 240px;
+      }
+  }
+
+
+  @media all and (max-width: 1170px) {
+      .ed-container-left {
+        margin-left: 80px;
+      }
+  }
+
+
+  @media all and (max-width: 650px) {
+      .ed-container-left, .ed-container-center, .ed-container-right {
+          width:100%;
+          display:block;
+          margin:0;
+      }
+  }
+
+  @media all and (max-width: 650px) {
+      .ed-container-left {
+        margin-left: 0px;
+      }
+  }
+
+
     /*End Education elements */
 
 
