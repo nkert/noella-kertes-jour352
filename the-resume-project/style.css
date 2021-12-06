@@ -475,7 +475,9 @@ Main components
       width:300px;
       height:210px;
       display:inline-block;
-      padding: 10px;
+      padding-top: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
       float: left;
       font-family: 'Red Hat Display', sans-serif;
       font-weight: 600;
@@ -556,7 +558,7 @@ Main components
 
     .workcontainer-top {
       margin-top: 15px;
-      margin-left: 220px;
+      margin-left: 250px;
       padding-top: 15px;
       padding-left: 50px;
 
@@ -564,7 +566,7 @@ Main components
 
     .workcontainer-bottom {
       margin-top: 15px;
-      margin-left: 220px;
+      margin-left: 250px;
       padding-top: 15px;
       padding-left: 50px;
 
