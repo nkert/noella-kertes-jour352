@@ -542,18 +542,22 @@ Main components
 
     .container-fluid {
       background-color: #FEF5EC;
-      height: 700px;
+      height: 1200px;
       width: 100%;
 
     }
 
     .workcontainer-top {
+      margin-top: 15px;
+      margin-left: 20px;
       padding-top: 15px;
       padding-left: 30px;
 
     }
 
     .workcontainer-bottom {
+      margin-top: 15px;
+      margin-left: 20px;
       padding-top: 15px;
       padding-left: 30px;
 
