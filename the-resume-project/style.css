@@ -20,7 +20,7 @@ h4 {
 
 
 .overlay {
-  position: fixed;
+  position: absolute;
   margin-top: 26px;
   margin-left: 60px;
   top: 35%;
