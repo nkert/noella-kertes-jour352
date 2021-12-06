@@ -489,7 +489,7 @@ Main components
 
   .edcontainer-left {
       background:#E5E1E1;
-      margin: 200px;
+      margin: 250px;
       margin-left: 230px;
       margin-right: 0px;
   }
@@ -504,9 +504,18 @@ Main components
       margin-top: 200px;
   }
 
+
+  @media all and (max-width: 1680px) {
+      .container-left {
+        margin-left: 200px;
+      }
+  }
+
+
+
   @media all and (max-width: 1170px) {
       .ed-container-left {
-        margin-left: 15px;
+        margin-left: 50px;
       }
   }
 
