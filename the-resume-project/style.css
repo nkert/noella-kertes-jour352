@@ -547,7 +547,17 @@ Main components
 
     }
 
+    .workcontainer-top {
+      margin-top: 15px;
+      padding-left: 10px;
 
+    }
+
+    .workcontainer-bottom {
+      margin-top: 10px;
+      padding-left: 10px;
+
+    }
     /*End Work elements */
 
 
