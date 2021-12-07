@@ -40,7 +40,7 @@ h4 {
 
 @media all and (max-width: 910px) {
     .hero-overlay {
-        margin-left: 0px;
+        margin-left: 4px;
         font-size: .7em;
     }
 }
