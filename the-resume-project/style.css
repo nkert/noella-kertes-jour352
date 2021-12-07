@@ -601,7 +601,19 @@ Main components
     @media all and (max-width: 1050px) {
     .workcontainer-bottom {
       margin-left: 120px;
+    }
 }
+
+    @media all and (max-width: 880px) {
+    .workcontainer-top {
+      margin-left: 0px;
+    }
+}
+
+  @media all and (max-width: 880px) {
+  .workcontainer-bottom {
+    margin-left: 0px;
+  }
 }
     /*End Work elements */
 
