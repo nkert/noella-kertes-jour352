@@ -439,7 +439,7 @@ Main components
     }
 }
 
-@media all and (max-width: 1050px) {
+@media all and (max-width: 1080px) {
     .container-left {
       margin-left: 0px;
     }
