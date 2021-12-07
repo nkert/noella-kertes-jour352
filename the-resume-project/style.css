@@ -435,17 +435,17 @@ Main components
 
 @media all and (max-width: 1250px) {
     .container-left {
-      margin-left: 80px;
+      margin-left: 90px;
     }
 }
 
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1050px) {
     .container-left {
       margin-left: 0px;
     }
 }
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 910px) {
     .container-left, .container-center, .container-right {
         margin-left:0px; margin-right: 0px;
     }
