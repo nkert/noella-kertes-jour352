@@ -41,17 +41,25 @@ h4 {
 @media all and (max-width: 910px) {
     .hero-overlay {
         margin-left: 0px;
+        font-size: .7em;
     }
 }
 
 
-
-.social {
+.social img{
   margin-right: 5px;
   margin-left: 5px;
   width: 35px;
   height: auto;
 }
+
+@media all and (max-width: 910px) {
+    .social img{
+        width: 25px;
+        height: auto;
+    }
+}
+
 
 .hero-hed {
   font-family: 'Lora', serif;
