@@ -46,20 +46,13 @@ h4 {
 }
 
 
-.social img{
+
+.social {
   margin-right: 5px;
   margin-left: 5px;
   width: 35px;
   height: auto;
 }
-
-@media all and (max-width: 910px) {
-    .social img{
-        width: 25px;
-        height: auto;
-    }
-}
-
 
 .hero-hed {
   font-family: 'Lora', serif;
