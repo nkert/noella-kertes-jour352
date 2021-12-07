@@ -564,6 +564,11 @@ Main components
       }
   }
 
+    @media all and (max-width: 830px) {
+      .container-fluid {
+    height: 1400px;
+    }
+  }
     /*End Education elements */
 
 
@@ -620,6 +625,7 @@ Main components
     .workcontainer-top {
       margin-left: 0px;
       padding-left: 0px;
+      padding-top: 0px;
     }
 }
 
@@ -627,6 +633,7 @@ Main components
   .workcontainer-bottom {
     margin-left: 0px;
     padding-left: 0px;
+    padding-top: 0px;
   }
 }
     /*End Work elements */
