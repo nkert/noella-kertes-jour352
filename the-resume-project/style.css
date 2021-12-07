@@ -582,6 +582,18 @@ Main components
       padding-left: 50px;
 
     }
+
+    @media all and (max-width: 1050px) {
+    .workcontainer-top {
+      margin-left: 120px;
+    }
+}
+
+    @media all and (max-width: 1050px) {
+    .workcontainer-bottom {
+      margin-left: 120px;
+}
+}
     /*End Work elements */
 
 
