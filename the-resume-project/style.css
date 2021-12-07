@@ -445,7 +445,7 @@ Main components
     }
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width: 800px) {
     .container-left, .container-center, .container-right {
         width:100%;
         display:block;
@@ -453,7 +453,7 @@ Main components
     }
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width: 800px) {
     .container-left {
       margin-left: 0px;
     }
