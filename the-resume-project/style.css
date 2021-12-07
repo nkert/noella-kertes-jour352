@@ -535,25 +535,25 @@ Main components
       }
   }
 
-  @media all and (max-width: 1300px) {
+  @media all and (max-width: 1320px) {
       .edcontainer-left {
         margin-left: 120px;
       }
   }
 
-  @media all and (max-width: 1170px) {
+  @media all and (max-width: 1190px) {
       .edcontainer-left {
         margin-left: 15px;
       }
   }
 
-  @media all and (max-width: 910px) {
+  @media all and (max-width: 930px) {
       .edcontainer-left, .edcontainer-center, .edcontainer-right {
           margin-left: 0px; margin-right: 0px;
       }
   }
 
-  @media all and (max-width: 830px) {
+  @media all and (max-width: 860px) {
       .edcontainer-left, .edcontainer-center, .edcontainer-right {
           width:100%;
           display:block;
