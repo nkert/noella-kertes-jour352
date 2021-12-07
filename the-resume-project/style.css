@@ -61,7 +61,7 @@ h4 {
   height: auto;
 }
 
-@media all and (max-width: 880px) {
+@media all and (max-width: 650px) {
     .social {
         display: none;
     }
