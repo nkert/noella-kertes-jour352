@@ -433,14 +433,19 @@ Main components
 }
 
 
-@media all and (max-width: 1220px) {
+@media all and (max-width: 1170px) {
     .container-left {
       margin-left: 80px;
     }
 }
 
+@media all and (max-width: 980px) {
+    .container-left {
+      margin-left: 0px;
+    }
+}
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 750px) {
     .container-left, .container-center, .container-right {
         width:100%;
         display:block;
