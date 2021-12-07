@@ -53,6 +53,19 @@ h4 {
   height: auto;
 }
 
+.envelope {
+  margin-right: 5px;
+  margin-left: 5px;
+  width: 35px;
+  height: auto;
+}
+
+@media all and (max-width: 880px) {
+    .social {
+        display: none;
+    }
+}
+
 .hero-hed {
   font-family: 'Lora', serif;
   font-size: 1em;
