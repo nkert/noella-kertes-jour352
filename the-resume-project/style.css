@@ -547,13 +547,13 @@ Main components
       }
   }
 
-  @media all and (max-width: 1060px) {
+  @media all and (max-width: 1080px) {
       .edcontainer-left, .edcontainer-center, .edcontainer-right {
           margin-left: 0px; margin-right: 0px;
       }
   }
 
-  @media all and (max-width: 910px) {
+  @media all and (max-width: 920px) {
       .edcontainer-left, .edcontainer-center, .edcontainer-right {
           width:100%;
           display:block;
