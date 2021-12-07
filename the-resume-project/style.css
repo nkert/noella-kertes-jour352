@@ -532,13 +532,13 @@ Main components
       }
   }
 
-  @media all and (max-width: 1250px) {
+  @media all and (max-width: 1180px) {
       .edcontainer-left {
         margin-left: 120px;
       }
   }
 
-  @media all and (max-width: 1080px) {
+  @media all and (max-width: 1050px) {
       .edcontainer-left {
         margin-left: 15px;
       }
