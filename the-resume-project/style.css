@@ -578,7 +578,7 @@ Main components
 
     .workcontainer-top {
       margin-top: 15px;
-      margin-left: 250px;
+      margin-left: 260px;
       padding-top: 15px;
       padding-left: 50px;
 
@@ -586,7 +586,7 @@ Main components
 
     .workcontainer-bottom {
       margin-top: 15px;
-      margin-left: 250px;
+      margin-left: 260px;
       padding-top: 15px;
       padding-left: 50px;
 
@@ -594,25 +594,39 @@ Main components
 
     @media all and (max-width: 1050px) {
     .workcontainer-top {
-      margin-left: 120px;
+      margin-left: 130px;
     }
 }
 
     @media all and (max-width: 1050px) {
     .workcontainer-bottom {
-      margin-left: 120px;
+      margin-left: 130px;
     }
 }
 
-    @media all and (max-width: 880px) {
+    @media all and (max-width: 890px) {
     .workcontainer-top {
       margin-left: 0px;
     }
 }
 
-  @media all and (max-width: 880px) {
+  @media all and (max-width: 890px) {
   .workcontainer-bottom {
     margin-left: 0px;
+  }
+}
+
+    @media all and (max-width: 850px) {
+    .workcontainer-top {
+      margin-left: 0px;
+      padding-left: 0px;
+    }
+}
+
+  @media all and (max-width: 850px) {
+  .workcontainer-bottom {
+    margin-left: 0px;
+    padding-left: 0px;
   }
 }
     /*End Work elements */
