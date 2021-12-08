@@ -657,9 +657,9 @@ Main components
   }
 }
 
-@media all and (max-width: 830px) {
+@media all and (max-width: 800px) {
   .container-fluid {
-height: 1800px;
+height: 2000px;
 }
 }
 
