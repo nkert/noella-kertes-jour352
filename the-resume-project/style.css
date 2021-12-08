@@ -662,6 +662,12 @@ Main components
 height: 1400px;
 }
 }
+
+@media(min - width: 576 px) {
+   .card - columns {
+      column - count: 2;
+   }
+}
     /*End Work elements */
 
 
