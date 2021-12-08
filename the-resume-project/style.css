@@ -666,9 +666,9 @@ Main components
   flex-direction: column;
 }
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 940px) {
   .container-fluid {
-height: 2950px;
+height: 3100px;
 }
 }
 
