@@ -657,6 +657,15 @@ Main components
   }
 }
 
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
 @media all and (max-width: 800px) {
   .container-fluid {
 height: 3400px;
