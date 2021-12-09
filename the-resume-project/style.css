@@ -168,6 +168,11 @@ hr {
   color: #C7D4D7;
   }
 
+  @media all and (max-width: 1180px) {
+    .experience-image {
+  height: 1800px;
+  }
+  }
 
 /* --------------------------------------------------
 
