@@ -641,7 +641,7 @@ Main components
   }
 }
 
-    @media all and (max-width: 770px) {
+    @media all and (max-width: 750px) {
     .workcontainer-top {
       margin-left: 0px;
       padding-left: 0px;
@@ -649,7 +649,7 @@ Main components
     }
 }
 
-  @media all and (max-width: 770px) {
+  @media all and (max-width: 750px) {
   .workcontainer-bottom {
     margin-left: 0px;
     padding-left: 0px;
@@ -666,7 +666,7 @@ Main components
   flex-direction: column;
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 570px) {
   .container-fluid {
 height: 3200px;
 }
