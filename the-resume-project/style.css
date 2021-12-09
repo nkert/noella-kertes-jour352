@@ -469,7 +469,7 @@ Main components
     }
 }
 
-@media all and (max-width: 910px) {
+@media all and (max-width: 925px) {
     .container-left, .container-center, .container-right {
         margin-left:0px; margin-right: 0px;
     }
