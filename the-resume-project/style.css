@@ -411,6 +411,13 @@ Main components
     background-size: cover;
   }
 
+  @media all and (max-width: 900px) {
+   .skills-image {
+ height: 750px;
+ }
+ }
+
+
   .container-wrapper {
     text-align: center;
 }
