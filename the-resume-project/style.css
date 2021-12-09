@@ -617,25 +617,25 @@ Main components
 
     }
 
-    @media all and (max-width: 1050px) {
+    @media all and (max-width: 1080px) {
     .workcontainer-top {
       margin-left: 130px;
     }
 }
 
-    @media all and (max-width: 1050px) {
+    @media all and (max-width: 1080px) {
     .workcontainer-bottom {
       margin-left: 130px;
     }
 }
 
-    @media all and (max-width: 890px) {
+    @media all and (max-width: 880px) {
     .workcontainer-top {
       margin-left: 0px;
     }
 }
 
-  @media all and (max-width: 890px) {
+  @media all and (max-width: 880px) {
   .workcontainer-bottom {
     margin-left: 0px;
   }
