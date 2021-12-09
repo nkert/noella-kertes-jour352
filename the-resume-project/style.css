@@ -641,7 +641,7 @@ Main components
   }
 }
 
-    @media all and (max-width: 850px) {
+    @media all and (max-width: 770px) {
     .workcontainer-top {
       margin-left: 0px;
       padding-left: 0px;
@@ -649,7 +649,7 @@ Main components
     }
 }
 
-  @media all and (max-width: 850px) {
+  @media all and (max-width: 770px) {
   .workcontainer-bottom {
     margin-left: 0px;
     padding-left: 0px;
