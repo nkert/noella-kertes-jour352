@@ -603,7 +603,7 @@ Main components
 
     .workcontainer-top {
       margin-top: 15px;
-      margin-left: 260px;
+      margin-left: 265px;
       padding-top: 15px;
       padding-left: 50px;
 
@@ -611,7 +611,7 @@ Main components
 
     .workcontainer-bottom {
       margin-top: 15px;
-      margin-left: 260px;
+      margin-left: 265px;
       padding-top: 15px;
       padding-left: 50px;
 
@@ -666,7 +666,7 @@ Main components
   flex-direction: column;
 }
 
-@media all and (max-width: 680px) {
+@media all and (max-width: 650px) {
   .container-fluid {
 height: 3200px;
 }
