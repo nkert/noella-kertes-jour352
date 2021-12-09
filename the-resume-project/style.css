@@ -168,7 +168,7 @@ hr {
   color: #C7D4D7;
   }
 
-  @media all and (max-width: 860px) {
+  @media all and (max-width: 900px) {
     .experience-image {
   height: 1950px;
   }
