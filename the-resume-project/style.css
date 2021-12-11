@@ -397,6 +397,9 @@ Main components
   }
 }
 
+  .right-side {
+    text-align: right;
+  }
 /* -------END TIMELINE -------------------------------- */
 
 /*End Experience Elements */
